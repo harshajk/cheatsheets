@@ -1,3 +1,3 @@
-Light weight and open-source pdf reader:
-**XpdfReader**
+# Light weight and open-source pdf reader:
+* XpdfReader
 
