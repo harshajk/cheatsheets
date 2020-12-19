@@ -7,6 +7,8 @@ Table of contents
   - [Search Techniques](#search-techniques)
 - [Data Structures](#data-structures)
   - [Basic Data Structures](#basic-data-structures)
+    - [Linear data types](#linear-data-types)
+    - [Non-linear data types](#non-linear-data-types)
   - [Advanced data structures](#advanced-data-structures)
 
 # Algorithms
@@ -26,6 +28,10 @@ One of the basic techniques for improving the efficiency of algorithms is to use
 - **Divide and conquer approach**: It is a useful for solving conceptually difficult problems.
 - **Greedy approach**: It is more useful for solving oprimization problems under a given set of conditions.
 - **Recursion**: It is a technique of defining the process using itself. It is used to solve problems that are repetitive in nature.
+- **Dynamic Programming**
+- **Brute-force algorithms**
+- **Randomized algorithms**
+- **Backtracking algorithms**
 
 ## Determining the efficiency of an algorithm
 The rate at which the running time of an algorithm increases as a result of an increase in the volume of input data is called the order of growth of the algorithm.
@@ -45,13 +51,21 @@ The different orders of growth and their corresponding big O notations are:
 - Bubble sort
 - Selection sort
 - Insertion sort
+- Heap sort
 - Shell sort
 - Quick sort
 - Merge sort
+- Counting sort
+- Radix sort
 
 ## Search Techniques
 - Linear search
 - Binary search
+- Ternary search
+- Interpolation
+- Jump search
+- Exponential search
+- Sublist search
 - Hash
 
 # Data Structures
@@ -62,10 +76,14 @@ Data structures can be classified under the following two categories:
 2. Dynamic: Example - Linked list
 
 ## Basic Data Structures
+### Linear data types
 - Array
-- Linked list
 - Stack
 - Queue
+- Deque
+
+### Non-linear data types
+- Linked list
 - Tree
 - Graph
 
