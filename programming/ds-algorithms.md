@@ -10,6 +10,10 @@ Table of contents
     - [Linear data types](#linear-data-types)
     - [Non-linear data types](#non-linear-data-types)
   - [Advanced data structures](#advanced-data-structures)
+  - [Analyzing the algorithm](#analyzing-the-algorithm)
+    - [Asymptotic analysis](#asymptotic-analysis)
+      - [Worst, average and best cases](#worst-average-and-best-cases)
+    - [Big Theta, Big-O and Big Omega](#big-theta-big-o-and-big-omega)
 
 # Algorithms
 An algorithm can be defined as a step by step procedure for solving a problem.
@@ -90,4 +94,25 @@ Data structures can be classified under the following two categories:
 ## Advanced data structures
 - Threaded binary tree
 - Height balanced binary tree
+
+## Analyzing the algorithm
+
+### Asymptotic analysis
+Determining the time complexity of an algorithm.
+
+#### Worst, average and best cases
+These time complexities have to be determined for an algorithm.
+
+### Big Theta, Big-O and Big Omega
+The notations used in the asymptotic analysis.
+
+Big Theta: *($\theta$)* a notation that bounds a function from above and below, like we saw previously in analysis, which also omits a const from the notation.
+
+Suppose, we have a function with time complexity 4n + 1. Since it's a linear function, we can notate it as `f(n) = g(n) + 1`
+
+Now suppose we have a function, g(n) where f(n) is the Big-Theta of g(n). If the value, f(n), is always between c1\*g(n) (lower bound) and c2*g(n) (upper bound) then for the above example we can say that the worst case time complexity of f(n) is $\theta$(n) and the best case time complexity of f(n) is $\theta$(1).
+
+Big-O notation: *(O)* a notation that bounds a function from above only using the upper bound of an algorithm. For the above example we can say that the time complexity of f(n) is O(n).
+
+Big Omega notation ($\Omega$) is contrary to the Big-O notation. It uses the lower bound to analyze time complexity. In other words is the best case in Big Theta notation. For the f(n) notation, we can say that the time complexity is $\Omega$(1).
 
