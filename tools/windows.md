@@ -21,6 +21,6 @@ Under this the folder "OneDrive for Business - Unsynced Changes" occupied 14GB ð
   - Sublime
   - Wox
 
-The space I claaimed by doing this is a whopping XGB!
+The space I claaimed by doing this is a whopping 27.4GB!
  - Free Space before the cleanup - 22.6GB
- - Free Space after the cleanup - GB
+ - Free Space after the cleanup - 50GB
