@@ -4,5 +4,6 @@
 2. Tips related to programming and programming tools
 
 # List of online games!
-1. http://nandgame.com/
-2. https://www.redblobgames.com/
+- https://www.codingame.com/
+- http://nandgame.com/
+- https://www.redblobgames.com/
