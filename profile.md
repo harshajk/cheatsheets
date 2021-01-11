@@ -2,7 +2,7 @@
 
 [GitLab](https://gitlab.com/harshajk)
 
-[LinkedIn](www.linkedin.com/in/harshajk)
+[LinkedIn](https://www.linkedin.com/in/harshajk)
 
 [StackOverflow](https://stackoverflow.com/users/1976886/harsha-j-k)
 
