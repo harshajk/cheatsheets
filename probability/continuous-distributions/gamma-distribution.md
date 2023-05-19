@@ -21,4 +21,4 @@ defines a PDF for $\alpha > 0,\ \beta > 0.$
 
 A RV $X$ with PDF defined by euqation (2) is said to have a gamma distribution with parameters $\alpha$ and $\beta$. We done this as $X \sim G(\alpha, \beta)$
 
-![Gamma distrubution](gamma-distribution-ex-1.png)
+![Gamma distribution](/probability/continuous-distributions/gamma-distribution-ex-1.png)
